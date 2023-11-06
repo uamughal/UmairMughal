@@ -7,6 +7,44 @@ email: uamughal42@tntech.edu
 google_scholar: https://scholar.google.com/citations?user=yIQfpKIAAAAJ&view_op=list_works&sortby=pubdate
 linkedin: https://www.linkedin.com/in/umair-mughal-490715174
 
+# Site Author
+author:
+  name             : "Umair Mughal"
+  avatar           : "profile.png"
+  bio              : "I am a PhD Candidate at the Computer Science Department at Tennessee Tech University."
+  location         : "Cookeville, TN"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=yIQfpKIAAAAJ&view_op=list_works&sortby=pubdate"
+  email            :  "umairmughal42@tntech.edu"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "academicpages"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  LinkedIn         : "https://www.linkedin.com/in/umair-mughal-490715174/"
+  orcid            : "http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
 
 #show_downloads: true
 theme: jekyll-theme-minimal
